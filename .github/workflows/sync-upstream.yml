@@ -12,6 +12,7 @@ on:
 
 permissions:
   contents: write
+  workflow: write
 
 jobs:
   sync:
